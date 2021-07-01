@@ -1,4 +1,4 @@
-<p align="center"> <img src= "https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/car%20pic.jpg" width="150"> </p>
+<p align="center"> <img src= "https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/car%20pic.jpg" width="450"> </p>
 
 # Vehicle Showroom 
 Welcome to Vehicle Showroom. **This CLI project is under instruction of DSI**.
