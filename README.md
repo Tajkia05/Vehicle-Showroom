@@ -1,5 +1,4 @@
-<p align="center"> <img src="" width="150"> </p>
-<hr>
+<a href="https://www.vecteezy.com/free-vector/car"></a>
 
 # Vehicle Showroom 
 Welcome to Vehicle Showroom. **This CLI project is under instruction of DSI**.
@@ -11,7 +10,7 @@ Welcome to Vehicle Showroom. **This CLI project is under instruction of DSI**.
 1. Designed using MVC Pattern.
 2. Welcome Functionality
 
-<p align="center"> <img src="" width="750"> </p>
+<p align="center"> <img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Inital%20page.jpg" width="750"> </p>
 <hr>
 
 3. Add a vehicle
@@ -23,29 +22,29 @@ Welcome to Vehicle Showroom. **This CLI project is under instruction of DSI**.
         - Tire size
 
 Before adding any vehicle, we have added 6 objectes by default. </br>
-<p align="center"> <img src="" width="750"> </p>
+<p align="center"> <img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Before%20adding%20vehicle.jpg" width="750"> </p>
 
 Adding a vehicle:<br>
-<p align="center"><img src="" width="500"> </p>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Adding%20vehicle.jpg" width="500"> </p>
 
 After adding, list of vehicles:</br>
-<p align="center"><img src="" width="750"> </p>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/List%20After%20Adding.jpg" width="750"> </p>
 <hr>
 
 4. Remove a vehicle
-  Before Removing our vehicle list look like: <br>
-<p align="center"><img src="" width="750"> </p>
+ Before Removing our vehicle list look like: <br>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/List%20After%20Adding.jpg" width="750"> </p>
 After removing, vehicle list:<br>
-<p align="center"><img src="" width="750"> </p>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Remove%20Vehicle.jpg" width="750"> </p>
 <hr>
 5. Show vehicle list with details (currently available)
-<p align="center"><img src="" width="750"> </p>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Before%20adding%20vehicle.jpg" width="750"> </p>
 <hr>
 
 6. Show vehicle list with current expected visitor count
-<p align="center"><img src="" width="750"> </p>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Visitor%20count.jpg" width="750"> </p>
 <hr>
 
 7. Exit from system
-<p align="center"><img src="" width="750"> </p>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Exit.jpg" width="750"> </p>
 
