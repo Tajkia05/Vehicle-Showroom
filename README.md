@@ -1,4 +1,4 @@
-<a href="https://www.vecteezy.com/free-vector/car"></a>
+<p align="center"> <img src= "https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/car%20pic.jpg" width="150"> </p>
 
 # Vehicle Showroom 
 Welcome to Vehicle Showroom. **This CLI project is under instruction of DSI**.
