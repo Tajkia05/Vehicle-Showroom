@@ -32,6 +32,7 @@ After adding, list of vehicles:</br>
 <hr>
 
 4. Remove a vehicle
+ <br>
  Before Removing our vehicle list look like: <br>
 <p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/List%20After%20Adding.jpg" width="750"> </p>
 After removing, vehicle list:<br>
@@ -46,5 +47,5 @@ After removing, vehicle list:<br>
 <hr>
 
 7. Exit from system
-<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Exit.jpg" width="750"> </p>
+<p align="center"><img src="https://github.com/Tajkia05/Vehicle-Showroom/blob/main/Screenshots/Exit.jpg" width="450"> </p>
 
